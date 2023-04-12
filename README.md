@@ -19,12 +19,12 @@ Linkedin Post [Link](https://www.linkedin.com/posts/akash-jayakrishnan-5221081ab
 
 ## Detailed View Page
 
-![Detailed View](https://user-images.githubusercontent.com/64686346/231567814-4797d332-666b-4703
+![Detailed View](https://user-images.githubusercontent.com/64686346/231567814-4797d332-666b-4703-a7b4-8595e2e72f19.PNG)
 
 ## Insights Page
 
 ![Insights Page](https://user-images.githubusercontent.com/64686346/231567839-43fa78eb-0758-45a4-8e5e-3a8b7136d43f.PNG)
--a7b4-8595e2e72f19.PNG)
+
 
 ## Dynamic Insights Page
 
